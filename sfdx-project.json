@@ -1,0 +1,17 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app - Copy",
+      "default": true
+    },
+    {
+        "path": "force-app",
+        "default": true
+      
+    }
+  ],
+  "name": "testingOrg",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "52.0"
+}
